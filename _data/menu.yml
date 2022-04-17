@@ -2,10 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-#  - title: Recent Posts
-#    entries:
-#      - title: Maximizing your productivity with Google Calendar
-#        ## url: https://github.com/_posts/2022-04-17-GCal-productivity.html
+  - title: Posts
+     entries:
+      - title: Maximizing your productivity with Google Calendar
+        ## url: https://github.com/_posts/2022-04-17-GCal-productivity.html
       
   - title: Posts
     post_list:
