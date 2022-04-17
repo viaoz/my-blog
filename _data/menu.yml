@@ -2,12 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: category
+  - title: Recent Posts
     entries:
-      - title: title
-      - title: title
-        ## url: https://github.com/riggraz/no-style-please
-      - title: title
+      - title: Maximizing your productivity with Google Calendar
+        ## url: https://github.com/_posts/2022-04-17-GCal-productivity.html
       
   - title: all posts
     post_list:
@@ -16,20 +14,6 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
   - title: rss
     url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
